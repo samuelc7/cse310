@@ -6,7 +6,7 @@ This program will display "hello world" on the terminal.
 
 The purpose of this program is to make sure that all of my enviornments are set up correctly and to say hi to the world. 
 
-[Software Demo Video](http://youtube.com)
+[Software Demo Video](https://www.youtube.com/watch?v=wX-1Pc0EsoY)
 
 # Development Environment
 
