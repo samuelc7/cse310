@@ -1,23 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a sample project for me to make sure that I have correct enviornments set up for future projects. It's also to make sure that my git and github are set up correctly. 
 
-{Provide a description of your software}
+This program will display "hello world" on the terminal. 
 
-{Describe your purpose for creating this software.}
+The purpose of this program is to make sure that all of my enviornments are set up correctly and to say hi to the world. 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtube.com)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code is the IDE that I used to develope this software. 
 
-{Describe the programming language that you used}
-
+This code is written in python. 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Geeksforgeeks](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube](http://youtube.com)
